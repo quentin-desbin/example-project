@@ -1,0 +1,11 @@
+[
+  {
+    "firstName": "john",
+    "lastName": "doe",
+    "email": "john.doe@example.com",
+    "city": {
+      "name": "Paris",
+      "country": "FRANCE"
+    }
+  }
+]
